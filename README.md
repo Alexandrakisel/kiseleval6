@@ -4,5 +4,6 @@
 ## **Блок-схема**
 <img width="582" height="662" alt="блок-схема лаба6дз drawio" src="https://github.com/user-attachments/assets/66e3980a-dbe2-446f-b094-7a9e6d73d1a6" />
 <img width="530" height="1062" alt="блок-схема лаба6 drawio" src="https://github.com/user-attachments/assets/28e0c65d-2058-44bc-bc04-e83148de166b" />
+
 ## **Информация о разработчике**
 Киселева Александра Павловна Группа: бИД-262
